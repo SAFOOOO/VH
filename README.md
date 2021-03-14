@@ -1,10 +1,9 @@
-# Windows2019RDP-US
-Windows Server 2019 Github with RDP Access (ngrok US) 
-Repo link: https://github.com/aliyajaferi/Windows2019RDP-US
-
+# RDP
+RDP Access (ngrok US) 
+Repo link:Get your personal RDP link from Aliya Jaferi
 Get a VPS Microsoft Azure with 2cpu-7gb Ram from Aliya Jaferi with Github:
 
-*For Asia  also available on request go to https://github.com/aliyajaferi/Windows2019RDP-AP*
+*For US & Other regions  also available on request *
 
 + Click Fork in the right corner of the screen to save it to your Github.
 + Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
