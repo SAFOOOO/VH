@@ -15,4 +15,4 @@ Get a VPS Microsoft Azure with 2cpu-7gb Ram from Aliya Jaferi with Github:
 + Reload the page and press CI> build
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-*IF You need customized RDP do contact aliyajaferi@protonmail.com* 
+*IF You need customized RDP do contact aliyajeferi@protonmail.com* 
